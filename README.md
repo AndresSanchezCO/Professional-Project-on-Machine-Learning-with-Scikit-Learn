@@ -1,4 +1,4 @@
-# Professional-Project-on-Machine-Learning-with-Scikit-Learn
+# Professional Project on Machine Learning with-Scikit Learn
 ## Machine Learning Repository
 
 In this repository, I develop various machine learning algorithms from the categories of supervised and unsupervised learning. The categories include XGBoosting, Random Forest, Decision Trees, K-means, among others.
